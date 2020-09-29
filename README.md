@@ -23,7 +23,7 @@ Spring
 Okta
 CSS, Bootstrap
 
-## Available Scripts
+# How to Run:
 
 In the project directory, you can run:
 
