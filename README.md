@@ -1,9 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-The brief
+# The  Brief
+
 Tyrannogotchi is a browser game application where a user can create an account, choose dinosaurs to take care of by feeding and healing them and choose which pen they live in.
 
-A user should be able to:
+## A user should be able to:
 
 Create an account
 Choose three dinosaurs from the database
